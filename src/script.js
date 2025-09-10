@@ -10,9 +10,9 @@
 (function () {
     'use strict';
 
-    /* ========================
+    /* =========================
        SRO LIST (cleaned names)
-    =========================== */
+    ============================ */
     const sroList = [
         "Aandimadam", "Aathur_Dindugal", "Aathur_Salem East", "Abiramam", "Acchirapakkam", "Adayar",
     "Adhiramapattinam", "Alandur", "Alanganallur", "Alangudi", "Alangulam", "Alwarthirunagari",
